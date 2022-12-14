@@ -8,7 +8,4 @@ node{
     sh "${mvnHome}/bin/mvn package"  
   }
         
-}
-        
-        
-                    
+}      
